@@ -1,5 +1,3 @@
-This project is a collaborative platform resembling a wiki where users can contribute text and images on various topics. Admins oversee content, approving user submissions and adding their own contributions. it fosters community-driven knowledge sharing.
-
 
 # CodeIgniter 4 Application Starter
 
